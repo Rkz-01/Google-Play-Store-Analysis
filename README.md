@@ -1,1 +1,3 @@
 # Google-Play-Store-Analysis
+
+This analysis leverages historical data from the Google Play store (June 2012 - February 2019) to inform future business strategies and mobile app development. By examining trends in app categories, Android versions, ratings, and installs, the study aims to provide valuable insights into user preferences and market dynamics. The project involves data collection, cleaning, and exploratory data analysis (EDA) to identify key trends and present findings through visualizations and reports, guiding stakeholders in strategic decision-making and fostering business growth.
